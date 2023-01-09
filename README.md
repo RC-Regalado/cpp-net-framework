@@ -1,6 +1,7 @@
-# CppCMS - High Performance C++ Web Framework
+# Net Framework - High Performance C++ Web Framework
 
-What is [CppCMS](http://cppcms.com/)? CppCMS is a [Free](http://en.wikipedia.org/wiki/Free_and_open_source_software) High Performance Web Development Framework (_not a CMS_) aimed at [Rapid](http://en.wikipedia.org/wiki/Rapid_application_development) Web Application Development. It differs from most other web development frameworks like: Python Django, Java Servlets in  the following ways:
+It's a fork from [CppCMS](http://cppcms.com/)
+Looking for figh performance over the web wevelopment aimed at [Rapid](http://en.wikipedia.org/wiki/Rapid_application_development) Web Application Development. It differs from most other web development frameworks like: Python Django, Java Servlets in  the following ways:
 
 1. It is designed and tuned to handle extremely high loads.
 2. It uses modern C++ as the primary development language in order to achieve the first goal.
@@ -10,10 +11,9 @@ Starting from version 1.2 it is available under MIT license.
 
 ## Useful Links
 
-- <http://cppcms.com>
 - [Documentation](http://cppcms.com/wikipp/en/page/cppcms_1x)
 
 ## Status
 
-[![Build Status](https://travis-ci.org/artyom-beilis/cppcms.svg?branch=master)](https://travis-ci.org/artyom-beilis/cppcms)
+<> [![Build Status](https://travis-ci.org/artyom-beilis/cppcms.svg?branch=master)](https://travis-ci.org/artyom-beilis/cppcms)
 
